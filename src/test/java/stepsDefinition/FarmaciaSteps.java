@@ -33,13 +33,12 @@ public class FarmaciaSteps {
 		Thread.sleep(3000);
 		driver.manage().window().maximize();
 		
-		
-
 	}
 
 	@When("User click on search")
 	public void user_click_on_search() throws InterruptedException {
-		  
+	
+		
 		  
 	}
 
